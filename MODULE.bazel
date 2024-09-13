@@ -1,0 +1,4 @@
+module(
+    name = "basic-bazel-c",
+    version = "0.0.1",
+)
